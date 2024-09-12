@@ -8,6 +8,12 @@ This is my personal configuration and I am sharing it for educational purposes. 
 * `Paru` - AUR helper
 * `neovim` - Text editor also used as IDE
 
+## Table of Contents
+* [Installation](#installation)
+* [Further Configuration](#further-configuration)
+* [Future Plans](#future-plans)
+
+
 ## Installation
 [Arch Linux Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
 ### Summary
